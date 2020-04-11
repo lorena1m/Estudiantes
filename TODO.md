@@ -1,4 +1,4 @@
 # TODO
 
-- [ ] Modificar alumno
+- [ ] Modificar alumno en GestEstudiantes
  
