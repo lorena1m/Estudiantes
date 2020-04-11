@@ -1,4 +1,4 @@
 # TODO
 
-- [ ] Modificar alumno en GestEstudiantes
+- [ ] Metodo **modificar datos** en GestEstudiantes
  
